@@ -72,7 +72,7 @@ Abrir um Pull Request 🚀
 
 ⚠️ Aviso
 
-Este projeto é 100% fictício. Qualquer semelhança com sistemas reais é pura coincidência (ou não 👀).
+Este projeto é 100% fictício. Qualquer semelhança com sistemas reais é pura coincidência.
 
 📄 Licença
 
